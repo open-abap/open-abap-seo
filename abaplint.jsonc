@@ -542,11 +542,7 @@
     "unused_ddic": false,
     "unused_macros": true,
     "unused_methods": true,
-    "unused_types": {
-      "exclude": [],
-      "severity": "Error",
-      "skipNames": []
-    },
+    "unused_types": false,
     "unused_variables": false,
     "use_bool_expression": true,
     "use_class_based_exceptions": true,
